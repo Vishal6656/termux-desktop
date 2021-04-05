@@ -82,7 +82,7 @@
      cx="16"
      cy="16"
      r="16" 
-     feDropShadow dx="0" dy="0" stdDeviation="0.5"
+     feDropShadow dx="0" dy="0" stdDeviation="5"
           flood-color="cyan" />
   <path
      id="path4778-0"
