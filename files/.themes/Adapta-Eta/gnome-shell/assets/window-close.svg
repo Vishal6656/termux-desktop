@@ -77,11 +77,11 @@
   <defs
      id="defs7386" />
   <circle
-     style="fill:#0000FF;fill-opacity:1;stroke:none"
+     style="fill:#0000FF;fill-opacity:1;stroke:black"
      id="path2994"
      cx="16"
      cy="16"
-     r="16" 
+     r="20" 
      feDropShadow dx="0" dy="0" stdDeviation="5"
           flood-color="cyan" />
   <path
